@@ -1,7 +1,7 @@
-## Sammi Education Platform
+## Bobur Education Platform
 
 # Demo Version
-https://sammi-education.vercel.app
+https://education-app.vercel.app
 
 #Stack
 
